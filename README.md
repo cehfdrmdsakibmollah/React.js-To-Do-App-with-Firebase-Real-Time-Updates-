@@ -1,12 +1,17 @@
-# React + Vite
+# React.js To-Do App with Firebase (Real-Time Updates)
+A modern and responsive To-Do application built with React.js and Firebase Firestore for seamless real-time updates. Users can add, edit, and delete tasks instantly with live synchronization across devices. The project demonstrates React hooks, Firebase integration, and CRUD operations with a clean UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔹 Features
 
-Currently, two official plugins are available:
+🚀Real-time task updates with Firebase Firestore
+🚀Add, edit, and delete todos instantly
+🚀Responsive UI with React.js
+🚀Persistent data across sessions
+🚀Simple and scalable architecture
+🚀 Perfect for beginners learning React + Firebase or anyone looking for a minimal real-time CRUD project.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Live Preview
+👉  https://todo-project-on.netlify.app/
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📌 Follow Us
+👍 Stay updated with new projects: https://www.facebook.com/cehfdrmdsakibmollah
