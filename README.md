@@ -16,7 +16,9 @@ A modern and responsive To-Do application built with React.js and Firebase Fires
 🚀 Perfect for beginners learning React + Firebase or anyone looking for a minimal real-time CRUD project.
 
 🚀 Live Preview
+
 👉  https://todo-project-on.netlify.app/
 
 📌 Follow Us
+
 👍 Stay updated with new projects: https://www.facebook.com/cehfdrmdsakibmollah
