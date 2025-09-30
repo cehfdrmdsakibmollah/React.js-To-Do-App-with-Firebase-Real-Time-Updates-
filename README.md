@@ -4,10 +4,15 @@ A modern and responsive To-Do application built with React.js and Firebase Fires
 🔹 Features
 
 🚀Real-time task updates with Firebase Firestore
+
 🚀Add, edit, and delete todos instantly
+
 🚀Responsive UI with React.js
+
 🚀Persistent data across sessions
+
 🚀Simple and scalable architecture
+
 🚀 Perfect for beginners learning React + Firebase or anyone looking for a minimal real-time CRUD project.
 
 🚀 Live Preview
